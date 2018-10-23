@@ -1,6 +1,6 @@
 {
   "name": "@monster5/log",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "print out console.log in colorfull way",
   "license": "MIT",
   "repository": "khmaies5/log",
