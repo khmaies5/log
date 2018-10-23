@@ -1,7 +1,7 @@
 # @monster5/log
 [![npm (scoped)](https://img.shields.io/badge/npm-v1.0.0-brightgreen.svg)](https://github.com/khmaies5/log)
 
-Makes console logs better
+Makes console logs in the browser looks better
 
 
 ## Install
