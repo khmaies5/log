@@ -1,0 +1,16 @@
+{
+    "name": "@monster5/log",
+    "version": "1.0.0",
+    "description": "print out console.log in colorfull way",
+    "license": "MIT",
+    "repository": "khmaies5/log",
+    "main": "index.js",
+    "keywords": [
+      "log",
+      "console",
+      "npm",
+      "package",
+      "khmaies5",
+      "monster5"
+    ]
+  }
